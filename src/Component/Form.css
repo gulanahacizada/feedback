@@ -1,0 +1,39 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+}
+div{
+    height: 85vh;
+    background-color: rgb(240, 212, 160);
+    padding: 20px;
+    border: 2px solid brown;
+}
+input{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 2px dotted brown;
+    outline-color: brown;
+}
+textarea{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 2px dotted brown;
+    outline-color: brown;
+}
+button{
+    width: 30%;
+    margin: auto;
+    margin-bottom: 20px;
+    height: 50px;
+    font-size: 25px;
+    background-color: rgb(240, 212, 160);
+    border: 2px solid brown;
+}
+label{
+    font-size: larger;
+    margin-bottom: 5px;
+}
